@@ -1,0 +1,7 @@
+primero : npm install -g typescript
+segundo : npm install -g ts-node
+tercero : npx tsc --init
+cuarto: ts-node 1.ts             ----> es el nombre del archivo (1.ts)
+quinto: tsc 1.ts    ---> o -----> node 1.js
+
+
